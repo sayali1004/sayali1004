@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayali1004" alt="sayali1004" /></a> </p>
 
-- 🔭 I’m currently working on **Building ETL pipeline**
+- 🔭 I’m currently working on **Working on Healthcare disparities in USA**
 
 - 🌱 I’m currently learning **Snowflake, Apache Kafka, Google big Query**
 
